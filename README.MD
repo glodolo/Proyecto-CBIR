@@ -1,6 +1,6 @@
 # CBIR 
 
-INTEGRANTES DEL GRUPO:
+INTEGRANTES DEL GRUPO P:
 - Natalia Figal Izquierdo
 - Gloria Domingo de Loresecha
 
